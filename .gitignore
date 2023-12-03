@@ -1,0 +1,7 @@
+# Ignore node_modules
+/teller-react/node_modules
+/tellerBackend/node_modules
+
+# Ignore package-lock.json
+/teller-react/package-lock.json
+/tellerBackend/package-lock.json
